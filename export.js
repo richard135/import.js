@@ -1,5 +1,5 @@
 function compare(a){
-  var total = a + 2;
+  var total = a + 4;
   return total;
 }
 
